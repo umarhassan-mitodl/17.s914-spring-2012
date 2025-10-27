@@ -5,8 +5,6 @@ description: This file contains information about Relationship between MIT and W
 file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/50a6915f30c6e0aef42b07c03d06a12a_MIT17_S914S12_mitwell2.pdf
 file_size: 139145
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

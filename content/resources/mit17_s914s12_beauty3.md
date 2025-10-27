@@ -4,8 +4,6 @@ description: This file contains information about Perceptions of beauty.
 file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/72fca4c4b0c7130fafc1b67ea42503ac_MIT17_S914S12_beauty3.pdf
 file_size: 66011
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

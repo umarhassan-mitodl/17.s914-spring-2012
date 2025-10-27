@@ -4,8 +4,6 @@ description: This file contains information about De-Criminalization of prostitu
 file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/432ba8631e172078032284d2fe6b3fcc_MIT17_S914S12_pros4.pdf
 file_size: 59431
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

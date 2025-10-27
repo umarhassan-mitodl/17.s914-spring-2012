@@ -4,8 +4,6 @@ description: This file contains information about Euthanasia.
 file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/2fb0c56f4a9bd7f0a0dfe3aad5b3cc6c_MIT17_S914S12_euthanasia3.pdf
 file_size: 62947
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
